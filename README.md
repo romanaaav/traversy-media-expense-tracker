@@ -1,6 +1,8 @@
 # vue-expense-tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+![Exprense tracker preview](src\assets\img\expense-tracker-preview.png?raw=true "Title")
+
+This is an expense tracker made from a [Crash Course](https://www.youtube.com/watch?v=hNPwdOZ3qFU) posted in Youtube and Github from the well known channel [Traversy Media](https://github.com/bradtraversy/vue-expense-tracker). I copied this simple project in order to know the new approach and syntax that Vue 3 Composition API offers.
 
 ## Recommended IDE Setup
 
